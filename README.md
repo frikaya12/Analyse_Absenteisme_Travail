@@ -18,7 +18,3 @@ Ce projet vise à analyser le taux d’absentéisme en entreprise et à prédire
 ## 🎯 Résultats et Insights  
 - 📊 Analyse des **tendances d’absentéisme** par âge, région et poste.  
 - 🏢 Impact des conditions de travail et du transport sur l’absentéisme.  
-
-## 🔗 Liens  
-🔹 **[Code Source sur GitHub](https://github.com/frikaya12/Analyse_Absenteisme_Travail)**  
-🔹 **[Tableau Public Dashboard](https://public.tableau.com/)** *(Ajouter ton lien ici)*  
